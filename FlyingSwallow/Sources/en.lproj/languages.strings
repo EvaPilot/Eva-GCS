@@ -1,0 +1,236 @@
+/* 
+  languages.strings
+  FlyingSwallow
+
+  Created by koupoo on 12-12-21.
+  Copyright (c) 2012年 www.hexairbot.com. All rights reserved.
+*/
+
+
+"PERSONAL SETTINGS" = "PERSONAL SETTINGS";
+"CHANNELS SETTINGS" = "CHANNELS SETTINGS";
+"MODE SETTINGS" = "MODE SETTINGS";
+"ABOUT" = "ABOUT RC TOUCH";
+
+//PERSONAL SETTINGS
+"LEFT HANDED" = "LEFT HANDED";
+"INTERFACE OPACITY" = "INTERFACE OPACITY";
+
+//CHANNELS SETTINGS
+"CHANNELS" = "Channels";
+
+"IS REVERSING" = "Direction Reversed";
+"TRIM VALUE" = "Trim Value";
+"OUTPUT ADJUSTABLE RANGE" = "Output Adjustable Range";
+"OUTPUT PPM RANGE" = "Output PPM Range";
+"DEFAULT OUTPUT VALUE" = "Default Output Value";
+
+
+
+//MODE SETTINGS
+"PPM POLARITY REVERSED" = "PPM Polarity Reversed";
+"DEAD BAND" = "DEAD BAND";
+
+//Audio Warning
+"Increase Audio Volume" = "Increase Audio Volume";
+"Decrease Audio Volume" = "Decrease Audio Volume";
+"Plug in PPM output cable" = "Plug in PPM output cable";
+
+
+//Channel List Table View Cell
+"Trim" = "Trim";
+"Adjustable" = "Adjustble";
+"Normal" = "Normal";
+"Reversed" = "Reversed";
+
+"Take Off Throttle" = "Take Off Throttle";
+
+"Aileron/Elevator Dead Band" = "Aileron/Elevator Dead Band";
+"Rudder Dead Band" = "Rudder Dead Band";
+
+//status info pane
+"Rudder Locked" = "Rudder Locked";
+"Throttle Locked" = "Throttle Locked";
+"Throttle Rudder Locked" = "Throttle Rudder Locked";
+
+"Default Settings" = "Default Settings";
+"Default" = "Default";
+
+//Hud View
+"Touch Control" = "Touch Control";
+"Physical Control" = "Physical Control";
+
+"connected" = "connected";
+"not connected" = "not connected";
+
+"can't sentd data" = "can't sentd data";
+"can't get data" = "can't get data";
+
+"I known" = "I Known";
+
+"Show Joysticks" = "Show Joysticks";
+"Hide Joysticks" = "Hide Joysticks";
+
+"Switch Control Mode" = "Switch Control Mode";
+"Switch to Touch Control mode?" = "Switch to Touch Control mode?";
+"Switch to Physical Control mode?" = "Switch to Physical Control mode?";
+
+"Locate User" = "Locate User";
+"Can't locate user msg" = "Can't locate user";
+
+"Locate EVA" = "Locate EVA";
+"GPS Sat count is less then 5, can't locate EVA" = "GPS Sat count is less than 5, can't perform the airline, can't locate EVA.";
+
+
+//Airline
+"Add Waypoint" = "Add Waypoint";
+"The max count of waypoints is 99." = "The max count of waypoints is 99.";
+"Fly to Here"= "Fly to Here";
+"Edit Waypoint" = "Edit";
+"Delete Waypoint" = "Delete";
+"Enter airline managment menu?" = "Enter airline managment menu?";
+"Save Airline" = "Save Airline";
+"Please input the airline name:" = "Please input the airline name:\n\n";
+"Upload Airline" = "Upload";
+"Stop Upload" = "Stop Upload";
+"Clean current airline?" = "Clean current airline?";
+"Close airline managment menu?" = "Close airline managment menu?";
+"Airline ON?" = "Airline ON?";
+"Airline OFF?" = "Airline OFF?";
+"GPS Sat count is less than 5, can't perform the airline." = "GPS Sat count is less than 5, can't perform the airline.";
+"Upload airline?" = "Upload current airline?";
+"Stop uploading current airline?" = "Stop uploading current airline?";
+"Save Failed" = "Save Failed";
+"The airline name can't be empty." = "The airline name can't be empty.";
+"The airline is empty, please add some waypoints first." = "The airline is empty, please add some waypoints first.";
+"The airline is uploaded successfully." = "The airline is uploaded successfully.";
+
+
+//Config
+"Settings" = "Settings";
+"Enter settings interface?"  = "Enter settings interface?";
+
+"Setup" = "Setup";
+"Motor Related" = "Motor Related";
+"Transmitter" = "Transmitter";
+"Speed Setting" = "Speed Setting";
+"Stab System" = "Stab System";
+"PTZ" = "PTZ";
+"Power" = "Power";
+"Interface" = "Interface";
+
+"Adjusting channels..." = "Adjusting channels...";
+"Save" = "Save";
+"Save current config?" = "Save current config?";
+
+
+
+
+//Auto Takeoff
+"Auto Takeoff" = "Auto Takeoff";
+"Auto takeoff?" = "Auto takeoff?";
+"GPS Sat count is less than 5, can't auto takeoff." = "GPS Sat count is less than 5, can't auto takeoff.";
+
+//head free
+"Lock Head" = "Lock Head";
+"Unlock Head" = "Unlock Head";
+
+"Lock head?" = "Lock head?";
+"Unlock head?" = "Unlock head?";
+
+"Airline Managment" = "Airline Managment";
+
+"Enter airline managment menu?" = "Enter airline managment menu?";
+
+//circle flight
+"Circle Flight" = "Circle Flight";
+"Enter circle flight menu?" = "Enter circle flight menu?";
+"Close circle flight menu?" = "Close circle flight menu?";
+"Please tap the map to set the circle flight target." = "Please tap the map to set the circle flight target.";
+"GPS Sat count is less than 5, can't perform circle flight." = "GPS Sat count is less than 5, can't perform circle flight.";
+"The circle flight target must within 800m." = "The target must within 800m.";
+"The circle flight traget is out of 100m, are you sure?" = "The traget is out of 100m, are you sure?";
+
+
+//target flight
+"Target Flight" = "Target Flight";
+"Enter target flight menu?" = "Enter target flight menu?";
+"Close target flight menu?" = "Close target flight menu?";
+"Please tap the map to set the target." = "Please tap the map to set the target.";
+"GPS Sat count is less than 5, can't perform target flight." = "GPS Sat count is less than 5, can't perform target flight.";
+"The target must within 800m." = "The target must within 800m.";
+"The traget is 100m away, are you sure to flight to there?" = "The traget is 100m away, are you sure to flight to there?";
+
+//track
+"Track" = "Track";
+"Stop tracking?" = "Stop tracking?";
+"Start tracking?" = "Start tracking?";
+
+
+//flight mode
+"Manual" = "Manual";
+"GPS Hover" = "GPS Hover";
+"Auto Navigation" = "Auto Navigation";
+"Circle" = "Circle";
+"Target" = "Target";
+"Auto Waypoint Circling" = "Auto Waypoint Circling";
+"Semi Auto" = "Semi Auto";
+"Setting" = "Setting";
+"Zero Gyro" = "Zero Gyro";
+"Alt Error" = "Alt Error";
+"Air Speed Error" = "Air Speed Error";
+"Landing" = "Landing";
+"Landing?" = "Landing?";
+"Alt Hold" = "Alt Hold";
+"Unknown" = "Unknown";
+"Track" = "Track";
+"Stop Track" = "Stop Track";
+
+"can't track msg" = "Locating the position of user failed, can't track.";
+
+"Yes" = "Yes";
+"No" = "No";
+"Cancel" = "Cancel";
+
+
+//drone type
+"Quad X" = "Quad X";
+"Quad +" = "Quad +";
+"Hex X" = "Hex X";
+"Hex +" = "Hex +";
+"Oct X" = "Oct X";
+"Oct +" = "Oct +";
+
+//Transmitter
+"Adjust" = "Adjust";
+"Channel Adjustment" = "Channel Adjustment";
+"Tap the 'Adjust' button, then put the channels to max and min value during 5 seconds." = "Tap the 'Adjust' button, then put the channels to max and min value during 5 seconds.";
+"Aileron" = "Aileron";
+"Rudder" = "Rudder";
+"Elevator" = "Elevator";
+"Throttle" = "Throttle";
+
+
+
+//mag clibration
+"EVA has entered calibration state" = "EVA has entered calibration state";
+"EVA has not entered calibration state" = "EVA has not entered calibration state";
+
+"Not saved" = "Not saved";
+"Saved" = "Saved";
+
+
+//waypoint
+"The field of longitude is not a valid number." = "The field of longitude is not a valid number.";
+"The field of latitude is not a valid number." = "The field of latitude is not a valid number.";
+"The longtitude must be between -180 and 180." = "The longtitude must be between -180 and 180.";
+"The latitude must be between -90 and 90." = "The latitude must be between -90 and 90.";
+"The altitude must be between -2000 and 2000." = "The altitude must be between -2000 and 2000.";
+"The field of altitude is not a valid integer." = "The field of altitude is not a valid integer";
+"Modification Failed"  = "Modification Failed";
+
+//airline list
+"Delete Airline" = "Delete";
+"Open Airline" = "Open";
+"Airline" = "Airline";
+"How do you want to handle airline '%@'?" = "How do you want to handle airline '%@'?";

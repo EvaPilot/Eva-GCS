@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>DroneType</key>
+	<integer>1</integer>
+	<key>RcType</key>
+	<integer>0</integer>
+	<key>EscType</key>
+	<integer>0</integer>
+	<key>RollP</key>
+	<integer>80</integer>
+	<key>RollI</key>
+	<integer>50</integer>
+	<key>RollD</key>
+	<integer>45</integer>
+	<key>PItchP</key>
+	<integer>80</integer>
+	<key>PItchI</key>
+	<integer>150</integer>
+	<key>PitchD</key>
+	<integer>45</integer>
+	<key>YawP</key>
+	<integer>64</integer>
+	<key>YawD</key>
+	<integer>64</integer>
+	<key>ThrottleP</key>
+	<integer>80</integer>
+	<key>SpeedP</key>
+	<integer>50</integer>
+	<key>SpeedI</key>
+	<integer>50</integer>
+	<key>MagDeclination</key>
+	<real>2.5</real>
+	<key>MaxFlightSpeed</key>
+	<integer>120</integer>
+	<key>MaxVerticleSpeed</key>
+	<integer>200</integer>
+	<key>OverloadControlType</key>
+	<integer>0</integer>
+	<key>PtzRollSensitivity</key>
+	<integer>20</integer>
+	<key>PtzPitchSensitivity</key>
+	<integer>20</integer>
+	<key>PtzOutputFreq</key>
+	<integer>1</integer>
+	<key>BatteryCellCount</key>
+	<integer>3</integer>
+	<key>BatterryAlertVoltage</key>
+	<integer>3</integer>
+	<key>ControlType</key>
+	<integer>3</integer>
+	<key>MinGan</key>
+	<integer>0</integer>
+	<key>ThrottleSwitch</key>
+	<integer>0</integer>
+	<key>InterfaceOpacity</key>
+	<real>0.5</real>
+	<key>IsLeftHandMode</key>
+	<false/>
+	<key>MapMode</key>
+	<integer>2</integer>
+</dict>
+</plist>

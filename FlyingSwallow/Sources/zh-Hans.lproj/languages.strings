@@ -1,0 +1,225 @@
+/* 
+  languages.strings
+  FlyingSwallow
+
+  Created by koupoo on 12-12-21.
+  Copyright (c) 2012年 www.hexairbot.com. All rights reserved.
+*/
+
+"PERSONAL SETTINGS" = "个人设置";
+"CHANNELS SETTINGS" = "通道设置";
+"MODE SETTINGS" = "模式设置";
+"ABOUT" = "关于触摸遥控";
+
+//PERSONAL SETTINGS
+"LEFT HANDED" = "左撇子";
+"INTERFACE OPACITY" = "界面透明度";
+
+//CHANNELS SETTINGS
+"CHANNELS" = "通道";
+
+"IS REVERSING" = "反方向";
+"TRIM VALUE" = "修正值";
+"OUTPUT ADJUSTABLE RANGE" = "输出可调范围";
+"OUTPUT PPM RANGE" = "输出的PPM范围";
+"DEFAULT OUTPUT VALUE" = "默认输出值";
+
+
+//MODE SETTINGS
+"PPM POLARITY REVERSED" = "PPM极性反向";
+"DEAD BAND" = "盲区";
+
+//Audio Warning
+"Increase Audio Volume" = "增大音量";
+"Decrease Audio Volume" = "减小音量";
+"Plug in PPM output cable" = "插入PPM输出线";
+
+//Channel List Table View Cell
+"Trim" = "修正值";
+"Adjustable" = "可调";
+"Normal" = "正向";
+"Reversed" = "反向";
+
+"Take Off Throttle" = "起飞油门";
+
+"Aileron/Elevator Dead Band" = "Aileron/Elevator操作无效区";
+"Rudder Dead Band" = "Rudder操作无效区";
+
+//status info pane
+"Rudder Locked" = "航向锁定";
+"Throttle Locked" = "油门锁定";
+"Throttle Rudder Locked" = "油门和航向锁定";
+
+"Default Settings" = "默认设置";
+"Default" = "默认";
+
+
+//Hud View
+"Touch Control" = "Touch控";
+"Physical Control" = "物理控";
+
+"connected" = "已连接";
+"not connected" = "未连接";
+
+"can't sentd data" = "无法发送数据";
+"can't get data" = "无法获取数据";
+
+"I known" = "知道了";
+
+"Show Joysticks" = "显示遥杆";
+"Hide Joysticks" = "隐藏遥杆";
+
+"Switch Control Mode" = "切换控制方式";
+"Switch to Touch Control mode?" = "切换到Touch控?";
+"Switch to Physical Control mode?" = "切换到物理控?";
+
+"Locate User" = "定位自己";
+"Can't locate user msg" = "无法确定自己的位置，请确定您的设备是否有定位功能，如果有请先将其打开。";
+"Locate EVA" = "定位EVA";
+"GPS Sat count is less then 5, can't locate EVA" = "GPS搜索到的卫星数小于5，无法定位飞机的位置。";
+
+
+//Airline
+"Add Waypoint" = "添加航点";
+"The max count of waypoints is 99." = "航点数最多为99个。";
+"Fly to Here"= "飞到此航点";
+"Edit Waypoint" = "编辑此航点";
+"Delete Waypoint" = "删除此航点";
+"Enter airline managment menu?" = "进入航线规划菜单?";
+"Save Airline" = "保存航线";
+"Please input the airline name:" = "请输入航线名称:\n\n";
+"Upload Airline" = "上传航线";
+"Stop Upload" = "停止上传";
+"Clean current airline?" = "清空当前航线?";
+"Close airline managment menu?" = "关闭航线规划菜单?";
+"Airline ON?" = "执行航线?";
+"Airline OFF?" = "停止执行航线?";
+"GPS Sat count is less than 5, can't perform the airline." = "GPS搜索到的卫星数小于5，无法执行航线。";
+"Upload airline?" = "上传航线?";
+"Stop uploading current airline?" = "停止上传航线?";
+"Save Failed" = "保存失败";
+"The airline name can't be empty." = "航线名不能为空。";
+"The airline is empty, please add some waypoints first." = "航线为空，请添加航点后再上传。";
+"The airline is uploaded successfully." = "航线上传成功。";
+
+//track
+"Track" = "跟踪";
+"Stop tracking?" = "停止跟踪?";
+"Start tracking?" = "开启跟踪?";
+
+
+//Config
+"Settings" = "设置";
+"Enter settings interface?"  = "进入设置向导?";
+
+"Setup" = "安装";
+"Motor Related" = "马达调制";
+"Transmitter" = "遥控器校准";
+"Speed Setting" = "速度控制";
+"Stab System" = "自稳系统";
+"PTZ" = "云台设置";
+"Power" = "电源管理";
+"Interface" = "界面设置";
+
+"Adjusting channels..." = "校准通道中...";
+"Save" = "写入";
+"Save current config?" = "写入当前配置?";
+
+//Auto Takeoff
+"Auto Takeoff" = "自动起飞";
+"Auto takeoff?" = "自动起飞?";
+"GPS Sat count is less than 5, can't auto takeoff." = "GPS搜索到的卫星数小于5，无法自动起飞。";
+
+//head free
+"Lock Head" = "航向锁定";
+"Unlock Head" = "航向解锁";
+
+"Lock head?" = "航向锁定?";
+"Unlock head?" = "航向解锁?";
+
+"Airline Managment" = "航线规划";
+
+//circle flight
+"Circle Flight" = "绕点飞行";
+"Enter circle flight menu?" = "进入绕点飞行菜单?";
+"Close circle flight menu?" = "关闭绕点飞行菜单?";
+"Please tap the map to set the circle flight target." = "请先单击地图指定要绕飞的目标点。";
+"GPS Sat count is less than 5, can't perform circle flight." = "GPS搜索到的卫星数小于5，无法执行绕点飞行。";
+"The circle flight target must within 800m." = "The target must within 800m.";
+"The circle flight traget is out of 100m, are you sure?" = "要绕飞的目标点在100米之外，确定绕此点飞行?";
+
+//target flight
+"Target Flight" = "定点飞行";
+"Enter target flight menu?" = "进入定点飞行菜单?";
+"Close target flight menu?" = "关闭定点飞行菜单?";
+"Please tap the map to set the target." = "请先单击地图指定要飞的目标点。";
+"GPS Sat count is less than 5, can't perform target flight." = "GPS搜索到的卫星数小于5，无法执行定点飞行。";
+"The target must within 800m." = "要飞的目标点需要在800米的范围之内。";
+"The traget is 100m away, are you sure to flight to there?" = "要飞的目标点超过了100米，确定飞到此目标点?";
+
+//flight mode
+"Manual" = "手动模式";
+"GPS Hover" = "GPS悬停";
+"Auto Navigation" = "自动导航";
+"Circle" = "绕点飞行";
+"Target" = "定点飞行";
+"Auto Waypoint Circling" = "Auto Waypoint Circling";
+"Semi Auto" = "半自动";
+"Setting" = "设置模式";
+"Zero Gyro" = "陀螺仪清零";
+"Alt Error" = "海拔异常";
+"Air Speed Error" = "风速异常";
+"Landing" = "回航降落";
+"Landing?" = "回航降落?";
+"Alt Hold" = "气压计定高";
+"Unknown" = "未知模式";
+"Track" = "开启跟踪";
+"Stop Track" = "关闭跟踪";
+
+"can't track msg" = "无法确定自己的位置，无法进行跟踪。请确定您的设备是否有定位功能，如果有请先将其打开。";
+
+
+"Yes" = "是";
+"No" = "否";
+"Cancel" = "取消";
+
+
+//drone type
+"Quad X" = "X四轴";
+"Quad +" = "+四轴";
+"Hex X" = "X六轴";
+"Hex +" = "+六轴";
+"Oct X" = "X八轴";
+"Oct +" = "+八轴";
+
+//Transmitter
+"Adjust" = "校准";
+"Channel Adjustment" = "校准通道";
+"Tap the 'Adjust' button, then put the channels to max and min value during 5 seconds." = "按下校准按钮后，在5秒内将各通道的遥杆拨到最大位置和最小位置。";
+"Aileron" = "副翼";
+"Rudder" = "航向";
+"Elevator" = "升降";
+"Throttle" = "油门";
+
+
+//mag clibration
+"EVA has entered calibration state" = "飞控已进入校准状态";
+"EVA has not entered calibration state" = "飞控未进入校准状态";
+"Not saved" = "未保存";
+"Saved" = "已保存";
+
+
+//waypoint
+"The field of longitude is not a valid number." = "经度需要为数字。";
+"The field of latitude is not a valid number." = "纬度需要为数字。";
+"The longtitude must between -180 and 180." = "经度需要在180和－180之间。";
+"The latitude must between -90 and 90." = "纬度需要在90和－90之间。";
+"The altitude must between -2000 and 2000." = "高度需要在2000m和－2000m之间。";
+"The field of altitude is not a valid integer." = "高度需要为整数。";
+"Modification Failed" = "修改航点失败";
+
+//airline list
+"Delete Airline" = "删除";
+"Open Airline" = "打开";
+"Airline" = "航线操作";
+"How do you want to handle airline '%@'" = "对航线'%@'执行何种操作?";
